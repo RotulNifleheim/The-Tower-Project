@@ -60,4 +60,5 @@
 *.bhc filter=lfs diff=lfs merge=lfs -text
 *.dag filter=lfs diff=lfs merge=lfs -text
 *.psb filter=lfs diff=lfs merge=lfs -text
+*.unity filter=lfs diff=lfs merge=lfs -text
 
